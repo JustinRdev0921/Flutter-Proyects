@@ -1,0 +1,1 @@
+C:\Users\Pavilion\AppData\Local\Google\AndroidStudio2020.3\device-explorer\Pixel_4_API_30 [emulator-5554]\data\data\com.example.qr_flutter\app_flutter
